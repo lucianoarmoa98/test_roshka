@@ -29,7 +29,7 @@ export default function Dados() {
             });
         const { dados } = contenedor;
 
-        diceRef.current.rollAll(dados)
+        diceRef.current.rollAll(dados) 
     }
 
 
